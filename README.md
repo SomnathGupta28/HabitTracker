@@ -6,7 +6,7 @@ A premium, fully deployed Habit Tracker web app with modern SaaS UI, productivit
 
 ## 🌐 Live Demo
 
-🔗 **Visit Website:** [Add Your Live Link Here](https://habitforge-somnath.netlify.app/)
+🔗 **Visit Website:** https://habitforge-somnath.netlify.app/
 
 ---
 
